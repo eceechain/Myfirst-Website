@@ -1,1 +1,74 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+margin: 0%;
+padding: 0%;
+background-color: aquamarine;
+}
 
+header {
+    background-color: blueviolet;
+    color: azure;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+header h1{
+    font-size: 50px;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    float: right;
+    padding: 10px;
+    margin: 20px;
+    display: inline;
+}
+
+nav ul li a {
+      text-decoration: none;
+      font-weight: bold;
+      text-transform:initial
+}
+
+main {
+    padding: 20px;
+    margin: 20px;
+   
+}
+
+#about {
+    text-align:left;
+    padding: 0%;
+    font-weight: bold;
+    font-size: large;
+}
+
+#Education {
+    text-align: justify;
+    font-weight: 800;
+    font-size: large;
+}
+
+#Skills {
+    text-align: justify;
+    font-weight: 600;
+    font-size: large;
+}
+
+#Projects {
+    text-align: justify;
+    font-weight: 600;
+    font-size: large;
+}
+ 
+#Contact{
+    text-align: right;
+    margin-right: auto;
+    background-color: black;
+    color: aliceblue;
+}
