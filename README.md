@@ -1,13 +1,13 @@
-#  MY PORTFOLIo
+#  MY PORTFOLIO
 *****
-### Author : JARED AMIMA sep18th 2023
+### Author : Jared Amima Se18  2023
 ****
 ## Project Description
 This is me.I share about my skills, educational background, hobbies and my favourite sports activities and also how to contact me.
 ******
 
 ## SCREENSHOTS
-- 
+- ![Screenshot from 2023-09-19 00-04-17](https://github.com/eceechain/Myfirst-Website/assets/144310680/0b293c00-d8b4-4f10-b2d9-e651813256a1)
 - 
 
 
@@ -54,4 +54,4 @@ Or you can access the web application directly via this [https://wondrous-lebkuc
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) 2023 Jared Amima
+Copyright (c) 2023 Jared Amima.
